@@ -32,5 +32,5 @@ const server = http.createServer(function (req, res) {
 
 })
 
-server.listen(8888);
+server.listen(80);
 console.log("Server is listening!");
