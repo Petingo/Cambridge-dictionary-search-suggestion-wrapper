@@ -1,0 +1,19 @@
+{
+  "name": "cambridge-dictionary-search-suggestion-wrapper",
+  "version": "1.0.0",
+  "description": "Generalize the search suggestion of Cambridge dictionary for Vivaldi custom search engine.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "cambridge",
+    "dictionary",
+    "search",
+    "suggestion",
+    "vivaldi"
+  ],
+  "author": "Petingo",
+  "license": "MIT"
+}
