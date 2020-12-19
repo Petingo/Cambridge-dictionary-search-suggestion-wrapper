@@ -1,3 +1,7 @@
+Dec. 20, 2020 update:
+Apparently Cambridge Dictionary changed their API, currently this service is unavaliable.
+I hope I can figure it out ASAP.
+
 # Cambridge dictionary search suggestion wrapper
 Generalize the search suggestion of Cambridge dictionary for Vivaldi custom search engine.
 
